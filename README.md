@@ -123,3 +123,4 @@ image similar to the one below when you click on the `State` tab and expand the
 [provider]: https://react-redux.js.org/api/provider
 [redux-store]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/redux/assets/redux-devtools.png
 [store]: https://redux.js.org/api/store
+# waa15-redux-store
